@@ -63,41 +63,41 @@ html {
   color: var(--green);
 }
 
-.about_tecnologia .row {
+.about_evolucao .row {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
   gap: 2rem;
 }
 
-.about_tecnologia .row .image {
+.about_evolucao .row .image {
   flex: 1 1 45rem;
 }
 
-.about_tecnologia .row .image img {
+.about_evolucao .row .image img {
   padding-top: 3rem;
-  width: 70%;
+  width: 100%;
 }
 
-.about_tecnologia .row .content_tecnologia {
+.about_evolucao .row .content_evolucao {
   flex: 1 1 45rem;
 }
 
-.about_tecnologia .row .content_tecnologia h3 {
+.about_evolucao .row .content_evolucao h3 {
   color: var(--black);
   text-shadow: var(--text-shadow);
   font-size: 3rem;
   line-height: 1.8;
 }
 
-.about_tecnologia .row .content_tecnologia p {
+.about_evolucao .row .content_evolucao p {
   color: var(--light-color);
   padding: 1rem 0;
   font-size: 1.5rem;
   line-height: 1.8;
 }
 
-.content_tecnologia ul li {
+.content_evolucao ul li {
   color: var(--light-color);
   margin-left: 1rem;
   font-size: 1.3rem;
